@@ -1,0 +1,10 @@
+# Core Task Queue System Requirements
+redis>=4.0.0
+
+# Development and Testing (optional)
+pytest>=7.0.0
+pytest-asyncio>=0.21.0
+
+# Optional dependencies for API
+# Uncomment to use:
+# -r api/requirements.txt

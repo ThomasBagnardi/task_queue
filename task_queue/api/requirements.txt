@@ -1,0 +1,22 @@
+# Task Queue System - Python Dependencies
+
+# Core task queue
+redis>=4.0.0
+
+# FastAPI and HTTP
+fastapi>=0.95.0
+uvicorn>=0.20.0
+pydantic>=1.10.0
+
+# HTTP client
+requests>=2.28.0
+
+# Optional: For production deployments
+gunicorn>=20.1.0
+
+# Optional: For async Redis support
+# aioredis>=2.0.0  # Use redis[asyncio] instead
+
+# Optional: For testing
+pytest>=7.0.0
+pytest-asyncio>=0.20.0
