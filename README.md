@@ -1,6 +1,6 @@
 🚀 Task Queue System
 
-A lightweight, distributed-style task queue system designed to process background jobs asynchronously using a producer–worker architecture. Built to simulate how modern backend systems handle long-running or resource-intensive tasks without blocking application performance.
+A Python-based task queue system designed to simulate real-world background job processing for IT automation and backend workflows. This project demonstrates how resource-intensive or repetitive tasks—such as system setup, diagnostics, and batch operations—can be offloaded and processed asynchronously using a worker-based architecture.
 
 📌 Why This Exists
 
